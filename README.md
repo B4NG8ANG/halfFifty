@@ -1,6 +1,7 @@
 # halfFifty
 2023 동양미래대학교 3학년 졸업작품
 
+
 ## 프로젝트 소개
 Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 
@@ -8,8 +9,10 @@ Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 
 ![4](https://github.com/B4NG8ANG/halfFifty/assets/50348034/b15993df-5a1c-4e51-a375-e33b93245718)
 
+
 ## 개발 기간
 2023.03.01 ~ 2023.07.01 (6개월)
+
 
 ## 개발 멤버
 -
@@ -19,11 +22,13 @@ Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 -
 -
 
+
 ## 개발 환경
 - `Unity`
 - `C#`
 - Cooperation Tool: Git & Github Desktop
 - UI & Art Design: Photoshop
+
 
 ## 주요 기능 및 사용 기술
 - 캐릭터의 움직임 애니메이션 구현: 캐릭터가 상하좌우로 움직이는 각각의 모션을 이미지로 그려 Unity 에디터에서 애니메이션 클립 제작. 그 후 Animator에서 해당 클립들을 설정한 뒤 각각의 전환을 생성하고, 스크립트에서 애니메이션 상태를 제어하기 위해 int형 Animations Parameter를 설정. 그 뒤 각 전환마다 Conditions 설정으로 파라미터 값의 조건을 설정. 이후 방향키를 입력받아 캐릭터가 움직일 때 animator.SetInteger 함수를 사용하여 각 방향의 움직임에 해당하는 애니메이션 클립 전환 조건을 만족시켜 애니메이션을 재생.
