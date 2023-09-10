@@ -2,6 +2,7 @@
 2023 동양미래대학교 3학년 졸업작품
 
 
+
 ## 프로젝트 소개
 Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 
@@ -10,8 +11,10 @@ Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 ![4](https://github.com/B4NG8ANG/halfFifty/assets/50348034/b15993df-5a1c-4e51-a375-e33b93245718)
 
 
+
 ## 개발 기간
 2023.03.01 ~ 2023.07.01 (6개월)
+
 
 
 ## 개발 멤버
@@ -23,11 +26,13 @@ Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 -
 
 
+
 ## 개발 환경
 - `Unity`
 - `C#`
 - Cooperation Tool: Git & Github Desktop
 - UI & Art Design: Photoshop
+
 
 
 ## 주요 기능 및 사용 기술
