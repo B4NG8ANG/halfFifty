@@ -3,6 +3,7 @@
 
 ## 프로젝트 소개
 Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
+
 ![3](https://github.com/B4NG8ANG/halfFifty/assets/50348034/f70f0328-1334-4977-9efe-9a2a7ff0ee5e)
 
 ![4](https://github.com/B4NG8ANG/halfFifty/assets/50348034/b15993df-5a1c-4e51-a375-e33b93245718)
