@@ -18,12 +18,12 @@ Unity 및 C#으로 제작한 2D 오픈 월드형 생존 RPG 게임입니다.
 
 
 ## 개발 멤버
--
+- kakorolling: 메인 기획, 클라이언트 프로그래밍, 아트 제작
 - B4NG8ANG: 메인 기획 및 클라이언트 프로그래밍
--
--
--
--
+- givebro: 클라이언트 프로그래밍
+- youmjinsub: 클라이언트 프로그래밍
+- Hye-won-Han: 아트 제작
+- Leeahyun11: 아트 제작
 
 
 
